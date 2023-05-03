@@ -806,15 +806,19 @@ ul.value-list li{
     margin-bottom: 15px;
 }
 ul.value-list li .v-icon{
-    font-size: 55px;
-    text-align: left;
-    margin-right: 40px;
+    font-size: 42px;
+    /* text-align: left; */
+    /* margin-right: 40px; */
     color: #e73c3e;
+    height: 80px;
+    width: 101px;
 }
 ul.value-list li .v-icon i{}
 ul.value-list li .v-text{}
 ul.value-list li .v-text h3{
     margin-bottom: 20px;
+    font-size: 22px;
+    margin-top: 5px;
 }
 ul.value-list li .v-text p{
     color: #606060;
