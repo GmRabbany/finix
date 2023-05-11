@@ -1,0 +1,198 @@
+
+@media all and (max-width: 1200px) {
+
+    ul.primary-menu li a {
+       
+        padding: 8px 5px;
+ 
+        font-weight: 500;
+        font-size: 14px;
+        margin: 0px 5px;
+    }
+
+    .slider-content h1 {
+        font-size: 38px;
+        margin: 25px 0px;
+    }
+    
+
+
+    .company-list li img {
+        width: 130px;
+    }
+}
+
+
+
+@media all and (max-width: 992px) {
+
+    h1{
+        font-size: 30px;
+
+    }
+    h3{
+        font-size: 23px;
+    }
+
+    p{
+        font-size: 16px;
+    }
+    .header-info.d-flex.align-items-center {
+        justify-content: space-around;
+    }
+
+    ul.company-list.d-flex.justify-content-around.py-5 {
+        margin: 0 -100px;
+    }
+
+    .company {
+        padding: 0px !important;
+    }
+
+    .col-lg-6.col-md-6 {
+        display: flex;
+        align-items: center;
+    }
+
+    .finix-text h1 {
+        font-size: 25px;
+        font-weight: 500;
+        margin: 25px 0;
+    }
+
+    .why-choose-us {
+        text-align: center;
+    }
+
+    .why-img.pt-5 {
+        padding: 2rem 0rem 3rem 0 !important;
+    }
+
+    .why-img .why-animation {
+        bottom: 127px;
+        right: 243px;
+       
+    }
+
+    .funding .step {
+        margin-bottom: 3rem;
+    }
+
+    .buy-now-btn {
+        right: 60px;
+    
+        
+        font-size: 13px;
+      
+    }
+
+    .service-tab-item li {
+        width: 33%;
+    }
+    .service-tab-item li a strong {
+        padding: 5px 0px;
+        font-size: 18px;
+      
+    }
+    .service-tab-item li a span i {
+        font-size: 20px;
+        height: 50px;
+        width: 50px;
+        line-height: 50px;
+    }
+
+    .service-tab-content h2 {
+        font-size: 25px;
+    }
+
+    .service-tab-content h3.mt-5 {
+        margin: 1rem 0rem !important;
+    }
+
+    .testimonial .finix-text h1 {
+        font-size: 30px;
+    }
+    .finix-text p {
+        font-size: 16px;
+        margin: 5px 0;
+    }
+
+    .t-content p {
+        text-align: justify;
+        font-size: 16px;
+    }
+    .t-image img {
+        transform: translate(10px, -35px);
+    }
+
+    .testimonial .row.align-items-center.py-5 {
+        padding: 4rem 0 0 0!important;
+    }
+
+    .team {
+        padding: 0;
+    }
+
+    .team .finix-text h1 {
+        font-size: 30px;
+    }
+
+    .news .col-lg-4.col-md-6 {
+        margin-top: 2rem;
+    }
+}
+
+
+@media all and (max-width: 768px) {
+    .company-list li img {
+        width: 74px;
+    }
+
+    .news .n-item {
+        display: flex;
+        justify-content: space-between;
+        align-items: start;
+        margin-bottom: 20px;
+    }
+    .news .n-item .n-content {
+        margin: 0px 0px;
+        width: 50%;
+        margin-left: 20px;
+    }
+
+    .footer .footer-top ul.f-social-menu {
+        margin-bottom: 40px;
+    }
+
+    .first-sociel ul {
+        left: 0px;
+   
+    }
+}
+
+@media all and (max-width: 576px) {
+    ul.company-list.d-flex.justify-content-around.py-5 {
+        visibility: hidden;
+        opacity: 0;
+        height: 0;
+    }
+
+    .slider .slider-content {
+        width: 350px;
+    }
+
+    .team-item {
+        text-align: center;
+    }
+
+    .news .n-item .n-content h2 {
+        font-size: 20px;
+    }
+    
+
+   
+}
+
+@media all and (mi-width: 576px) {
+   
+}
